@@ -14,7 +14,7 @@ body {
 }
 
 .background {
-    background: linear-gradient(135deg,  rgb(0, 0, 0) 0%,rgb(33, 32, 33) 100%);
+    background: linear-gradient(135deg,  rgb(75, 84, 223) 0%,rgb(57, 155, 216) 100%);
     background-size: cover;
     background-position: center;
     width: 100%;
