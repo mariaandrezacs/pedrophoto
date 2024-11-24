@@ -194,4 +194,10 @@ button:hover {
         width: 30px;
         font-size: 14px;
     }
+
+    .container img {
+        padding: 20px;
+        width: 300px; /* As imagens ocupam toda a largura do contêiner */
+        margin-bottom: 10px; /* Espaçamento entre as imagens */
+    }
 }
