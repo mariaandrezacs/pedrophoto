@@ -10,12 +10,12 @@
 }
 
 .background {
-    background: #092d2d;
+    background: #437e7e;
 
 }
 
 header {
-    background-color: rgb(7, 40, 53);
+    background-color: rgb(25, 78, 99);
     display: flex;
     justify-content: space-around;
     width: 100%;
